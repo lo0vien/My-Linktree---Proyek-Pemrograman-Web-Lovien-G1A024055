@@ -1,13 +1,8 @@
 # Website Linktree Pribadi – Proyek Pemrograman Web
 
-Halo! Saya **Lovien Najla Dhafiyah**, mahasiswi **Universitas Bengkulu** Program Studi **Informatika** Angkatan **2024** dengan **NPM G1A024055**.
-
-Website ini dibuat sebagai bagian dari pemenuhan tugas mata kuliah **Proyek Pemrograman Web**.
-
-Website ini merupakan halaman **Linktree sederhana**, yang berfungsi sebagai media untuk menampilkan profil singkat serta tautan menuju akun media sosial dan dokumen CV saya.
+Halo! Saya Lovien Najla Dhafiyah, mahasiswi Universitas Bengkulu Program Studi Informatika Angkatan 2024 dengan NPM G1A024055. Website ini dibuat sebagai bagian dari pemenuhan tugas mata kuliah Proyek Pemrograman Web. Website ini merupakan halaman Linktree sederhana, yang berfungsi sebagai media untuk menampilkan profil singkat serta tautan menuju akun media sosial dan dokumen CV saya.
 
 Website ini memuat:
-
 * Foto profil dan identitas singkat
 * Link Instagram
 * Link WhatsApp
@@ -51,7 +46,6 @@ Berikut adalah susunan direktori dalam proyek ini:
 
 Berikut beberapa bagian kode penting yang digunakan dalam website ini:
 
----
 
 ### 1. Menampilkan Ikon (Favicon) pada Tab Browser
 
@@ -129,10 +123,6 @@ Kode ini digunakan untuk membuat tombol sosial media terlihat seperti kartu mode
 ---
 
 ## Tujuan Pembuatan Website
-
-Website Linktree ini dibuat sebagai sarana untuk memperkenalkan profil pribadi secara digital sekaligus melatih kemampuan dasar dalam pengembangan web menggunakan HTML dan CSS.
-
-Melalui proyek ini, saya mempelajari Struktur dasar HTML, Penggunaan file eksternal CSS, Pengelolaan folder gambar dan dokumen, Pemanfaatan ikon FontAwesome, Pembuatan tampilan modern dan responsif
-
+Website Linktree ini dibuat sebagai sarana untuk memperkenalkan profil pribadi secara digital sekaligus melatih kemampuan dasar dalam pengembangan web menggunakan HTML dan CSS. Melalui proyek ini, saya mempelajari Struktur dasar HTML, Penggunaan file eksternal CSS, Pengelolaan folder gambar dan dokumen, Pemanfaatan ikon FontAwesome, Pembuatan tampilan modern dan responsif
 
 Terima kasih telah mengunjungi dan membaca README ini
