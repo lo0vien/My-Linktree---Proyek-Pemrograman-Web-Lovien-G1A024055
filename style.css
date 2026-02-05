@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    font-family: "Poppins", sans-serif;
+
+    /* Background */
+    background: linear-gradient(to bottom, #ffe6f0, #fffafc);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+}
+
+/* Container */
+.container {
+    width: 100%;
+    max-width: 420px;
+    padding: 40px 20px;
+}
+
+/* Profile Component */
+.profil {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.profil img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+
+    border: 4px solid white;
+    box-shadow: 0 6px 15px rgba(255, 182, 193, 0.5);
+}
+
+.profil h1 {
+    font-size: 25px;
+    color: #ff6fae;
+    font-weight: bold;
+}
+
+.profil p {
+    font-size: 15px;
+    color: #666;
+    margin-bottom: 25px;
+}
+
+/* Social Component */
+.social {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Link reset */
+.social a {
+    text-decoration: none;
+}
+
+/* Button Sosmed  */
+.sosmed {
+    background: white;
+    color: #ff6fae;
+
+    padding: 15px;
+    border-radius: 20px;
+
+    font-size: 16px;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+
+    box-shadow: 0 5px 12px rgba(255, 182, 193, 0.35);
+
+    transition: all 0.3s ease;
+}
+
+/* Icon kiri */
+.sosmed i {
+    position: absolute;
+    left: 18px;
+    font-size: 20px;
+}
+
+/* Hover */
+.sosmed:hover {
+    background: #ffb6d9;
+    color: white;
+    transform: scale(1.05);
+}
