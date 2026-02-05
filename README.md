@@ -1,4 +1,4 @@
-# Website Linktree Pribadi – Proyek Pemrograman Web
+# My Linktree – Proyek Pemrograman Web
 
 Halo! Saya Lovien Najla Dhafiyah, mahasiswi Universitas Bengkulu Program Studi Informatika Angkatan 2024 dengan NPM G1A024055. Website ini dibuat sebagai bagian dari pemenuhan tugas mata kuliah Proyek Pemrograman Web. Website ini merupakan halaman Linktree sederhana, yang berfungsi sebagai media untuk menampilkan profil singkat serta tautan menuju akun media sosial dan dokumen CV saya.
 
